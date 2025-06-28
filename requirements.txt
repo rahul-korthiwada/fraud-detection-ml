@@ -3,3 +3,8 @@ scipy
 matplotlib
 scikit-learn
 ipykernel
+pandas
+transformers
+torch
+accelerate
+python-dotenv
